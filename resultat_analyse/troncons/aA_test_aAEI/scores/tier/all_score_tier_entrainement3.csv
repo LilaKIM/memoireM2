@@ -1,0 +1,4 @@
+	precision_0	recall_0	f1_score_0	support_0	precision_1	recall_1	f1_score_1	support_1	f1_score_accuracy	support_accuracy	precision_macro_avg	recall_macro_avg	f1_score_macro_avg	support_macro_avg	precision_weighted_avg	recall_weighted_avg	f1_score_weighted_avg	support_weighted_avg
+1	0.68	0.72	0.70	2520	0.70	0.66	0.68	2520	0.69	5040	0.69	0.69	0.69	5040	0.69	0.69	0.69	5040
+2	0.70	0.77	0.73	2520	0.75	0.66	0.70	2520	0.72	5040	0.72	0.72	0.72	5040	0.72	0.72	0.72	5040
+3	0.70	0.70	0.70	2520	0.70	0.70	0.70	2520	0.70	5040	0.70	0.70	0.70	5040	0.70	0.70	0.70	5040

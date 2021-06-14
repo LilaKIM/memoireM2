@@ -1,0 +1,5 @@
+	precision_0	recall_0	f1_score_0	support_0	precision_1	recall_1	f1_score_1	support_1	f1_score_accuracy	support_accuracy	precision_macro_avg	recall_macro_avg	f1_score_macro_avg	support_macro_avg	precision_weighted_avg	recall_weighted_avg	f1_score_weighted_avg	support_weighted_avg
+A	0.00	0.00	0.00	0	1.00	0.88	0.94	3780	0.88	3780	0.50	0.44	0.47	3780	1.00	0.88	0.94	3780
+E	1.00	0.63	0.77	3780	0.00	0.00	0.00	0	0.63	3780	0.50	0.32	0.39	3780	1.00	0.63	0.77	3780
+I	0.00	0.00	0.00	0	1.00	0.68	0.81	3780	0.68	3780	0.50	0.34	0.40	3780	1.00	0.68	0.81	3780
+a	1.00	0.83	0.91	3780	0.00	0.00	0.00	0	0.83	3780	0.50	0.42	0.46	3780	1.00	0.83	0.91	3780
