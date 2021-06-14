@@ -1,0 +1,46 @@
+	nb_faux_a	contextes_a	nb_bon_a	nb_faux_A	contextes_A	nb_bon_A	nb_faux_a_max	contexte_a_avec_fauxMax	nb_faux_A_max	contexte_A_avec_fauxMax
+26_11_07_nb1_1_16	2	labial_dorsal/dorsal_pause	53	2	m_coronal/labial_coronal	53	1	labial_dorsal/dorsal_pause	1	m_coronal/labial_coronal
+26_11_07_nb1_2_16	4	labial_coronal/labial_m/dorsal_pause/pause_m	51	3	coronal_dorsal	52	1	labial_coronal/labial_m/dorsal_pause/pause_m	3	coronal_dorsal
+26_11_07_nb2_1_16	4	coronal_pause/dorsal_pause/dorsal_labial/labial_labial	51	4	dorsal_coronal/pause_m/coronal_dorsal/coronal_pause	51	1	coronal_pause/dorsal_pause/dorsal_labial/labial_labial	1	dorsal_coronal/pause_m/coronal_dorsal/coronal_pause
+26_11_07_nb2_2_16	1	dorsal_coronal	54	0		55	1	dorsal_coronal	0	
+26_11_07_nb3_1_16	2	dorsal_coronal/dorsal_pause	53	3	dorsal_m/pause_dorsal/coronal_coronal	52	1	dorsal_coronal/dorsal_pause	1	dorsal_m/pause_dorsal/coronal_coronal
+26_11_07_nb3_2_16	1	coronal_dorsal	54	4	m_coronal/pause_n/coronal_dorsal	51	1	coronal_dorsal	2	coronal_dorsal
+27_11_07_nb1_1_16	2	dorsal_pause/labial_dorsal	53	1	coronal_coronal	54	1	dorsal_pause/labial_dorsal	1	coronal_coronal
+27_11_07_nb1_2_16	1	coronal_pause	54	0		55	1	coronal_pause	0	
+27_11_07_nb2_1_16	1	pause_n	54	4	coronal_coronal/dorsal_pause	51	1	pause_n	3	coronal_coronal
+27_11_07_nb2_2_16	4	labial_dorsal/labial_pause/dorsal_pause/dorsal_dorsal	51	1	coronal_labial	54	1	labial_dorsal/labial_pause/dorsal_pause/dorsal_dorsal	1	coronal_labial
+28_11_07_nb1_1_16	0		55	8	dorsal_coronal/labial_coronal/coronal_labial/pause_labial/dorsal_n/m_coronal/coronal_coronal/coronal_dorsal	47	0		1	dorsal_coronal/labial_coronal/coronal_labial/pause_labial/dorsal_n/m_coronal/coronal_coronal/coronal_dorsal
+28_11_07_nb1_2_16	1	m_coronal	54	5	coronal_coronal/m_labial/dorsal_coronal	50	1	m_coronal	2	coronal_coronal/dorsal_coronal
+28_11_07_nb2_1_16	7	dorsal_pause/coronal_pause/pause_labial/pause_dorsal/coronal_dorsal	48	2	m_coronal/coronal_coronal	53	2	dorsal_pause/coronal_pause	1	m_coronal/coronal_coronal
+28_11_07_nb2_2_16	0		55	7	pause_pause/coronal_coronal/coronal_pause/m_coronal/dorsal_labial	48	0		2	coronal_coronal/m_coronal
+29_11_07_nb1_2_16	2	n_coronal/labial_coronal	53	16	m_coronal/coronal_labial/coronal_pause/dorsal_coronal/coronal_dorsal/coronal_coronal	39	1	n_coronal/labial_coronal	4	coronal_pause/dorsal_coronal
+29_11_07_nb2_1_16	4	dorsal_pause/dorsal_dorsal	51	4	dorsal_coronal/coronal_dorsal/pause_labial	51	3	dorsal_pause	2	dorsal_coronal
+29_11_07_nb2_2_16	7	labial_pause/labial_dorsal/dorsal_coronal/dorsal_pause/n_pause	48	2	labial_labial/coronal_n	53	3	dorsal_pause	1	labial_labial/coronal_n
+30_11_07_nb1_1_16	9	dorsal_pause/dorsal_coronal/labial_dorsal/coronal_pause/coronal_dorsal/labial_m/dorsal_dorsal	46	6	coronal_labial/coronal_dorsal/m_coronal/coronal_coronal/pause_pause/m_pause	49	2	dorsal_pause/coronal_pause	1	coronal_labial/coronal_dorsal/m_coronal/coronal_coronal/pause_pause/m_pause
+30_11_07_nb1_2_16	4	coronal_coronal/labial_dorsal/m_coronal	51	1	coronal_dorsal	54	2	coronal_coronal	1	coronal_dorsal
+05_12_07_nb1_1_16	9	dorsal_coronal/dorsal_dorsal/labial_dorsal/coronal_coronal/coronal_dorsal/m_labial/pause_dorsal/dorsal_pause	46	2	coronal_coronal	53	2	labial_dorsal	2	coronal_coronal
+05_12_07_nb1_2_16	4	dorsal_dorsal/labial_dorsal/pause_labial/dorsal_pause	51	1	m_coronal	54	1	dorsal_dorsal/labial_dorsal/pause_labial/dorsal_pause	1	m_coronal
+14_11_07_nb1_1_16	0		55	14	coronal_dorsal/coronal_labial/dorsal_pause/dorsal_labial/pause_coronal/dorsal_coronal/pause_dorsal/labial_pause/dorsal_n	41	0		3	coronal_dorsal/pause_coronal
+14_11_07_nb1_2_16	6	coronal_labial/labial_dorsal/dorsal_labial/labial_coronal/dorsal_pause	49	5	coronal_labial/pause_coronal/labial_coronal/dorsal_coronal/pause_labial	50	2	dorsal_pause	1	coronal_labial/pause_coronal/labial_coronal/dorsal_coronal/pause_labial
+14_11_07_nb2_1_16	7	dorsal_pause/dorsal_coronal/dorsal_labial/labial_pause/m_dorsal	48	2	pause_labial/coronal_labial	53	2	dorsal_pause/dorsal_coronal	1	pause_labial/coronal_labial
+14_11_07_nb2_2_16	4	coronal_labial/labial_pause/coronal_pause/coronal_dorsal	51	7	coronal_coronal/coronal_pause/dorsal_labial/labial_pause/m_coronal	48	1	coronal_labial/labial_pause/coronal_pause/coronal_dorsal	3	coronal_coronal
+16_11_07_nb1_1_16	3	dorsal_pause/labial_coronal	52	5	dorsal_coronal/pause_coronal/m_coronal/m_pause	50	2	dorsal_pause	2	dorsal_coronal
+16_11_07_nb1_2_16	6	m_dorsal/coronal_coronal/pause_labial/coronal_pause	49	1	coronal_coronal	54	2	coronal_coronal/coronal_pause	1	coronal_coronal
+16_11_07_nb2_1_16	2	labial_pause/dorsal_pause	53	0		55	1	labial_pause/dorsal_pause	0	
+16_11_07_nb2_2_16	1	dorsal_pause	54	7	dorsal_coronal/coronal_labial/m_dorsal/dorsal_n/dorsal_m/coronal_dorsal	48	1	dorsal_pause	2	dorsal_coronal
+20_11_07_nb1_1_16	1	labial_dorsal	54	6	labial_coronal/coronal_coronal/m_labial/coronal_dorsal/pause_m	49	1	labial_dorsal	2	coronal_coronal
+20_11_07_nb1_2_16	5	pause_labial/labial_n/coronal_labial/n_pause/coronal_pause	50	3	labial_coronal/dorsal_pause	52	1	pause_labial/labial_n/coronal_labial/n_pause/coronal_pause	2	labial_coronal
+22_11_07_nb1_1_16	2	labial_dorsal/coronal_labial	53	6	dorsal_coronal/dorsal_pause/dorsal_labial/coronal_dorsal/coronal_n	49	1	labial_dorsal/coronal_labial	2	dorsal_pause
+22_11_07_nb1_2_16	1	coronal_m	54	5	coronal_labial/dorsal_n/dorsal_coronal/coronal_coronal/coronal_dorsal	50	1	coronal_m	1	coronal_labial/dorsal_n/dorsal_coronal/coronal_coronal/coronal_dorsal
+22_11_07_nb2_1_16	1	dorsal_pause	54	2	dorsal_coronal/coronal_coronal	53	1	dorsal_pause	1	dorsal_coronal/coronal_coronal
+22_11_07_nb2_2_16	3	dorsal_pause/labial_coronal/dorsal_coronal	52	4	pause_labial/coronal_labial/dorsal_m/pause_dorsal	51	1	dorsal_pause/labial_coronal/dorsal_coronal	1	pause_labial/coronal_labial/dorsal_m/pause_dorsal
+23_11_07_nb1_1_16	5	dorsal_labial/n_dorsal/labial_dorsal/dorsal_pause/coronal_pause	50	4	dorsal_pause/dorsal_coronal/m_m	51	1	dorsal_labial/n_dorsal/labial_dorsal/dorsal_pause/coronal_pause	2	dorsal_coronal
+23_11_07_nb1_2_16	5	dorsal_coronal/dorsal_labial/labial_pause/dorsal_dorsal/dorsal_pause	50	3	dorsal_pause/coronal_coronal	52	1	dorsal_coronal/dorsal_labial/labial_pause/dorsal_dorsal/dorsal_pause	2	coronal_coronal
+03_12_07_nb1_1_16	7	dorsal_dorsal/pause_pause/dorsal_pause/pause_labial/labial_coronal	48	2	dorsal_labial/coronal_pause	53	2	dorsal_dorsal/dorsal_pause	1	dorsal_labial/coronal_pause
+03_12_07_nb1_2_16	3	dorsal_labial/labial_pause/dorsal_coronal	52	8	dorsal_coronal/m_pause/dorsal_pause/m_labial/m_coronal/dorsal_dorsal/m_dorsal	47	1	dorsal_labial/labial_pause/dorsal_coronal	2	dorsal_pause
+04_12_07_nb1_1_16	1	dorsal_dorsal	54	6	dorsal_m/pause_labial/m_coronal/labial_coronal/dorsal_coronal	49	1	dorsal_dorsal	2	pause_labial
+04_12_07_nb1_2_16	3	labial_dorsal/labial_n/dorsal_labial	52	1	pause_labial	54	1	labial_dorsal/labial_n/dorsal_labial	1	pause_labial
+04_12_07_nb2_1_16	6	coronal_pause/dorsal_pause/labial_pause/labial_dorsal	49	2	coronal_pause/coronal_coronal	53	2	coronal_pause/dorsal_pause	1	coronal_pause/coronal_coronal
+04_12_07_nb2_2_16	8	labial_pause/dorsal_pause/labial_dorsal/n_coronal/dorsal_m/labial_coronal	47	3	coronal_coronal/pause_labial	52	2	labial_dorsal/labial_coronal	2	coronal_coronal
+04_12_07_nb3_1_16	6	dorsal_coronal/m_coronal/dorsal_pause/labial_pause/labial_m	49	4	dorsal_coronal/dorsal_pause/m_labial/coronal_labial	51	2	dorsal_coronal	1	dorsal_coronal/dorsal_pause/m_labial/coronal_labial
+04_12_07_nb3_2_16	4	dorsal_dorsal/labial_coronal/pause_coronal/dorsal_pause	51	6	dorsal_dorsal/n_m/m_n/coronal_m/dorsal_coronal	49	1	dorsal_dorsal/labial_coronal/pause_coronal/dorsal_pause	2	dorsal_coronal
